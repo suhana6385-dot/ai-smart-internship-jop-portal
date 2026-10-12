@@ -1,0 +1,11 @@
+internship_id,title,company,location,domain,required_skills,duration,stipend,description
+I001,Software Development Intern,TechNova Solutions,Bengaluru,Backend Development,"Python,FastAPI,Git",3 months,15000,Assist in backend feature development.
+I002,Frontend Development Intern,PixelCraft Technologies,Remote,Frontend Development,"React,JavaScript,CSS",6 months,10000,Build UI components for web app.
+I003,Data Science Intern,InsightWorks Analytics,Mumbai,Data Science,"Python,Pandas,Data Analysis",3 months,12000,Work on data cleaning and analysis tasks.
+I004,Machine Learning Intern,DataMinds AI,Pune,AI/ML,"Python,Machine Learning,NumPy",6 months,18000,Support ML model development and evaluation.
+I005,Full Stack Intern,CodeSphere Pvt Ltd,Chennai,Full Stack Development,"React,Node.js,MongoDB",3 months,10000,Contribute to MERN stack based product.
+I006,Cloud Computing Intern,SkyBridge Cloud,Remote,Cloud,"AWS,Docker,Linux",3 months,12000,Assist with cloud deployment tasks.
+I007,DevOps Intern,CloudEdge Systems,Bengaluru,DevOps,"Docker,CI/CD,Git",3 months,10000,Support CI/CD pipeline maintenance.
+I008,AI Research Intern,NeuralWave Labs,Hyderabad,AI/ML,"Python,NLP,Deep Learning",6 months,20000,Assist in NLP research projects.
+I009,Backend Development Intern,Infinite Softwares,Noida,Backend Development,"Java,Spring Boot,SQL",3 months,12000,Support enterprise backend module development.
+I010,QA Intern,QualityFirst Technologies,Pune,Quality Assurance,"Python,Selenium,Git",3 months,9000,Assist manual and automated testing.

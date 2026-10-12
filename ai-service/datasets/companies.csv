@@ -1,0 +1,11 @@
+company_id,company_name,industry,location,hiring_domains
+CO001,TechNova Solutions,IT Services,Bengaluru,"Backend Development,DevOps"
+CO002,PixelCraft Technologies,Product,Hyderabad,"Frontend Development,UI/UX"
+CO003,CodeSphere Pvt Ltd,Product,Chennai,"Full Stack Development"
+CO004,DataMinds AI,AI/ML,Pune,"AI/ML,Data Science"
+CO005,InsightWorks Analytics,Analytics,Mumbai,"Data Science,Data Analysis"
+CO006,CloudEdge Systems,Cloud,Bengaluru,"DevOps,Cloud"
+CO007,Infinite Softwares,IT Services,Noida,"Backend Development"
+CO008,NeuralWave Labs,AI Research,Hyderabad,"AI/ML,Research"
+CO009,SkyBridge Cloud,Cloud,Remote,"Cloud,DevOps"
+CO010,Orion Tech Pvt Ltd,Product,Bengaluru,"Software Development"

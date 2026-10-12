@@ -1,0 +1,16 @@
+{
+  "name": "ai-smart-internship-job-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monorepo wrapper for frontend/ (Vite+React), backend/ (Node/Express), and ai-service/ (FastAPI). Each service is installed and run independently — see README.md.",
+  "scripts": {
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install",
+    "install:ai": "cd ai-service && python3 -m venv venv && venv/bin/pip install -r requirements.txt",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:ai": "cd ai-service && venv/bin/python main.py",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}

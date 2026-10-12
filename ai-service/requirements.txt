@@ -1,0 +1,61 @@
+# ==============================================================================
+# AI-Powered Smart Internship & Job Recommendation Portal - AI Microservice
+# requirements.txt
+# Python 3.12 compatible, conflict-free dependency set.
+# ==============================================================================
+
+# --- Web Framework ---
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+starlette==0.41.3
+
+# --- Data Validation ---
+pydantic==2.10.4
+pydantic-settings==2.7.1
+
+# --- ML / Data Science ---
+scikit-learn==1.6.0
+pandas==2.2.3
+numpy==2.2.1
+joblib==1.4.2
+
+# --- File Parsing ---
+PyPDF2==3.0.1
+pdfplumber==0.11.4
+python-docx==1.1.2
+
+# --- Fuzzy Matching / Text ---
+rapidfuzz==3.11.0
+
+# --- Database (optional MongoDB integration) ---
+motor==3.6.0
+pymongo==4.9.2
+
+# --- Config / Env ---
+python-dotenv==1.0.1
+
+# --- Logging ---
+loguru==0.7.3
+
+# --- HTTP Clients ---
+requests==2.32.3
+httpx==0.28.1
+
+# --- Fast JSON ---
+orjson==3.10.12
+
+# --- Testing ---
+pytest==8.3.4
+pytest-asyncio==0.25.0
+
+# ==============================================================================
+# OPTIONAL / HEAVY NLP STACK (commented out by default to keep the service
+# lightweight and installable without large model downloads).
+# Uncomment if you want to swap the built-in TF-IDF similarity engine in
+# services/recommendation_service.py for transformer-based embeddings.
+# ==============================================================================
+# sentence-transformers==3.3.1
+# transformers==4.47.1
+# spacy==3.8.3
+# nltk==3.9.1

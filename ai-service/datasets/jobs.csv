@@ -1,0 +1,13 @@
+job_id,title,company,location,domain,required_skills,experience_required,salary_range,description
+J001,Backend Developer,TechNova Solutions,Bengaluru,Backend Development,"Python,FastAPI,MongoDB,Docker,REST API",1-3 years,6-12 LPA,Build and maintain scalable backend microservices.
+J002,Frontend Developer,PixelCraft Technologies,Hyderabad,Frontend Development,"React,JavaScript,HTML,CSS,Tailwind CSS",0-2 years,4-8 LPA,Develop responsive UI using React and modern tooling.
+J003,Full Stack Developer,CodeSphere Pvt Ltd,Chennai,Full Stack Development,"React,Node.js,MongoDB,Express.js,JavaScript",1-3 years,6-10 LPA,Work on MERN stack applications end to end.
+J004,Machine Learning Engineer,DataMinds AI,Pune,AI/ML,"Python,Machine Learning,Scikit-learn,Pandas,NumPy",1-4 years,8-15 LPA,Design and deploy ML models for production systems.
+J005,Data Analyst,InsightWorks Analytics,Mumbai,Data Science,"SQL,Python,Data Analysis,Power BI,Data Visualization",0-2 years,4-7 LPA,Analyze business data and build dashboards.
+J006,DevOps Engineer,CloudEdge Systems,Bengaluru,DevOps,"Docker,Kubernetes,AWS,CI/CD,Linux",2-4 years,9-16 LPA,Manage CI/CD pipelines and cloud infrastructure.
+J007,Java Backend Developer,Infinite Softwares,Noida,Backend Development,"Java,Spring Boot,SQL,Microservices,REST API",1-3 years,6-11 LPA,Develop enterprise backend services using Spring Boot.
+J008,AI Research Engineer,NeuralWave Labs,Hyderabad,AI/ML,"Python,Deep Learning,NLP,PyTorch,TensorFlow",2-5 years,12-20 LPA,Research and build NLP/CV models.
+J009,Cloud Engineer,SkyBridge Cloud,Remote,Cloud,"AWS,Azure,Docker,Kubernetes,System Design",2-5 years,10-18 LPA,Architect and manage cloud native systems.
+J010,Software Engineer,Orion Tech Pvt Ltd,Bengaluru,Software Development,"Data Structures,Algorithms,OOP,Java,Git",0-2 years,5-9 LPA,Entry level software engineering role.
+J011,Python Developer,ByteForge Solutions,Kolkata,Backend Development,"Python,Django,PostgreSQL,REST API,Git",1-3 years,5-10 LPA,Build web applications using Django framework.
+J012,QA Automation Engineer,QualityFirst Technologies,Pune,Quality Assurance,"Python,Selenium,SQL,Git,CI/CD",1-3 years,5-9 LPA,Design automated testing frameworks.

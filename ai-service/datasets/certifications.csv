@@ -1,0 +1,13 @@
+cert_id,cert_name,provider,related_skill
+CT001,Google Data Analytics Certificate,Google,Data Analysis
+CT002,AWS Certified Cloud Practitioner,AWS,AWS
+CT003,Microsoft Azure Fundamentals AZ-900,Microsoft,Azure
+CT004,IBM Data Science Professional Certificate,IBM,Data Analysis
+CT005,Cisco Certified Network Associate,Cisco,Computer Networks
+CT006,Oracle Certified Java Programmer,Oracle,Java
+CT007,NPTEL Machine Learning Certification,NPTEL,Machine Learning
+CT008,SWAYAM Python Programming Certification,SWAYAM,Python
+CT009,Infosys Springboard AI Foundations,Infosys Springboard,Machine Learning
+CT010,Coursera Deep Learning Specialization Certificate,Coursera,Deep Learning
+CT011,Udemy React Developer Certificate,Udemy,React
+CT012,AWS Certified Solutions Architect Associate,AWS,AWS

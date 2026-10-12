@@ -1,0 +1,11 @@
+trend_id,skill,domain,growth_rate,demand_level,year
+T001,Machine Learning,AI/ML,High,Very High,2026
+T002,Cloud Computing,Cloud,High,Very High,2026
+T003,React,Frontend,Medium,High,2026
+T004,Python,Programming,High,Very High,2026
+T005,DevOps,DevOps,High,High,2026
+T006,Data Analysis,Data Science,Medium,High,2026
+T007,Cybersecurity,Security,High,Very High,2026
+T008,NLP,AI/ML,High,High,2026
+T009,Kubernetes,DevOps,High,High,2026
+T010,Microservices,Architecture,Medium,High,2026

@@ -1,0 +1,65 @@
+skill,category
+Python,Programming
+Java,Programming
+JavaScript,Programming
+TypeScript,Programming
+C++,Programming
+C,Programming
+Go,Programming
+Rust,Programming
+SQL,Database
+MongoDB,Database
+PostgreSQL,Database
+MySQL,Database
+Redis,Database
+FastAPI,Backend
+Django,Backend
+Flask,Backend
+Node.js,Backend
+Express.js,Backend
+Spring Boot,Backend
+React,Frontend
+Angular,Frontend
+Vue.js,Frontend
+HTML,Frontend
+CSS,Frontend
+Tailwind CSS,Frontend
+Bootstrap,Frontend
+Machine Learning,AI/ML
+Deep Learning,AI/ML
+NLP,AI/ML
+Computer Vision,AI/ML
+TensorFlow,AI/ML
+PyTorch,AI/ML
+Scikit-learn,AI/ML
+Pandas,AI/ML
+NumPy,AI/ML
+Data Analysis,Data Science
+Data Visualization,Data Science
+Power BI,Data Science
+Tableau,Data Science
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Docker,DevOps
+Kubernetes,DevOps
+Jenkins,DevOps
+CI/CD,DevOps
+Git,Tools
+GitHub,Tools
+Linux,Tools
+REST API,Backend
+GraphQL,Backend
+Microservices,Architecture
+System Design,Architecture
+Data Structures,Core CS
+Algorithms,Core CS
+OOP,Core CS
+DBMS,Core CS
+Operating Systems,Core CS
+Computer Networks,Core CS
+Agile,Soft Skill
+Communication,Soft Skill
+Leadership,Soft Skill
+Problem Solving,Soft Skill
+Teamwork,Soft Skill

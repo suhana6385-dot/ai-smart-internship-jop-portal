@@ -1,0 +1,8 @@
+career_id,career_name,domain,required_skills,salary_range,future_scope,roadmap
+CR001,Backend Developer,Software Development,"Python,FastAPI,SQL,Docker",6-15 LPA,High demand due to microservices adoption,"Learn a language -> Learn frameworks -> Learn DBs -> Build projects -> Learn deployment"
+CR002,Frontend Developer,Software Development,"JavaScript,React,CSS,HTML",5-14 LPA,Growing with rich web/mobile experiences,"Learn HTML/CSS -> Learn JS -> Learn a framework -> Build portfolio -> Learn testing"
+CR003,Machine Learning Engineer,AI/ML,"Python,Machine Learning,Scikit-learn,Statistics",8-25 LPA,Rapid growth with AI adoption across industries,"Learn Python -> Learn Math/Stats -> Learn ML algorithms -> Build projects -> Learn MLOps"
+CR004,Data Scientist,Data Science,"Python,SQL,Data Analysis,Machine Learning",8-22 LPA,High demand for data driven decisions,"Learn Python/SQL -> Learn statistics -> Learn ML -> Build case studies -> Learn visualization"
+CR005,DevOps Engineer,DevOps,"Docker,Kubernetes,AWS,CI/CD",9-20 LPA,Essential role for scalable deployments,"Learn Linux -> Learn Docker -> Learn Kubernetes -> Learn Cloud -> Learn CI/CD"
+CR006,Cloud Architect,Cloud,"AWS,Azure,System Design,Networking",12-28 LPA,Increasing cloud migration across enterprises,"Learn networking -> Learn a cloud provider -> Learn architecture patterns -> Get certified"
+CR007,Full Stack Developer,Software Development,"React,Node.js,MongoDB,Express.js",6-16 LPA,Consistently high demand across startups,"Learn frontend -> Learn backend -> Learn DB -> Build full projects -> Learn deployment"

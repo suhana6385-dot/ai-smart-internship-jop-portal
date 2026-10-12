@@ -1,0 +1,19 @@
+course_id,course_name,provider,skill,level,url
+C001,Python for Everybody,Coursera,Python,Beginner,https://www.coursera.org/specializations/python
+C002,Deep Learning Specialization,Coursera,Deep Learning,Advanced,https://www.coursera.org/specializations/deep-learning
+C003,The Complete Web Developer,Udemy,JavaScript,Beginner,https://www.udemy.com/course/the-complete-web-developer-course-2
+C004,React - The Complete Guide,Udemy,React,Intermediate,https://www.udemy.com/course/react-the-complete-guide-incl-redux
+C005,AWS Certified Solutions Architect,AWS,AWS,Intermediate,https://aws.amazon.com/certification/certified-solutions-architect-associate
+C006,Google Data Analytics,Google,Data Analysis,Beginner,https://grow.google/certificates/data-analytics
+C007,Docker and Kubernetes Masterclass,Udemy,Docker,Intermediate,https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide
+C008,Machine Learning by Andrew Ng,Coursera,Machine Learning,Intermediate,https://www.coursera.org/learn/machine-learning
+C009,Cisco Networking Basics,Cisco,Computer Networks,Beginner,https://www.netacad.com
+C010,Microsoft Azure Fundamentals,Microsoft,Azure,Beginner,https://learn.microsoft.com/en-us/certifications/azure-fundamentals
+C011,IBM Data Science Professional Certificate,IBM,Data Analysis,Beginner,https://www.coursera.org/professional-certificates/ibm-data-science
+C012,Java Programming Masterclass,Udemy,Java,Beginner,https://www.udemy.com/course/java-the-complete-java-developer-course
+C013,NPTEL Data Structures and Algorithms,NPTEL,Data Structures,Intermediate,https://onlinecourses.nptel.ac.in
+C014,SWAYAM DBMS Course,SWAYAM,DBMS,Beginner,https://swayam.gov.in
+C015,Infosys Springboard Full Stack,Infosys Springboard,Node.js,Beginner,https://infyspringboard.onwingspan.com
+C016,Oracle SQL Fundamentals,Oracle,SQL,Beginner,https://education.oracle.com
+C017,NLP Specialization,Coursera,NLP,Advanced,https://www.coursera.org/specializations/natural-language-processing
+C018,System Design Interview Prep,Udemy,System Design,Advanced,https://www.udemy.com/course/system-design-interview-prep

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+logs/*.log
+uploads/resumes/*
+uploads/profile/*
+uploads/company/*
+!uploads/resumes/.gitkeep
+!uploads/profile/.gitkeep
+!uploads/company/.gitkeep
+*.log
+.DS_Store
