@@ -1,7 +1,11 @@
+
 {
   "name": "campus-placement-backend",
   "version": "1.0.0",
   "description": "Backend for Student/Company Job & Internship Placement Platform",
+  "engines": {
+    "node": "20.x"
+  },
   "main": "dist/server.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only server.ts",
